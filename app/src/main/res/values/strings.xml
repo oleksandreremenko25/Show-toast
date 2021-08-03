@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="edit_message">Edit text</string>
+    <string name="button_send">Navigate</string>
+    <string name="button_show_toast">Show toast</string>
+    <string name="string_show_toast"></string>
+</resources>
